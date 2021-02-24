@@ -15,7 +15,8 @@
 * machine learnind
 * artificial intelligence
 * web development
-* 
+
+![Napro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronapro&show_icons=true&theme=radical)
 
 
 
