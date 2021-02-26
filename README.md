@@ -5,6 +5,7 @@
 <p>Hello 😁 I am Proscovia. My friends call me Napro. I write about data science, AI and tech at ![napro.dev](https://napro.dev/) connect with me to learn more and also get explanations for some of the code. I create summaries on my socials be sure to follow me to know when there is a new post.</p>
 
 <hr />
+
 ## What is new
 * whatsapp analysis
 * Geophagy
@@ -12,6 +13,7 @@
 * Tonal Languages
 
 <hr />
+
 ## Language and skills
 * python
 * machine learnind
