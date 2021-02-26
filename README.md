@@ -18,9 +18,9 @@ Hello 😁 I am Proscovia. My friends call me Napro. I write about data science,
 <hr />
 
 ### [Blog Articles](https://napro.dev/blog/)
-dtfbhi. ubnu n n
+Preview
     <details>
-      <summary>Preview Previous posts</summary>
+      <summary>Previous posts</summary>
     <ul>
       <li> [Tonal languages](https://napro.dev/what-are-tonal-languages-and-can-computers-understand-them-well/)</li>
       <li> [Data Analysis and Exploration](https://napro.dev/data-analysis-and-exploration-in-python-with-matplotlib-numpy-and-pandas/)</li>
