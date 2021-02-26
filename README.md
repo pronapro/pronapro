@@ -29,6 +29,8 @@ Preview
     </ul>
     </details>
 
+<hr />
+
 ## Language and skills
 * Python
 * Machine learning
