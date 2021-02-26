@@ -38,5 +38,5 @@
  <hr />
 </div>
 
-<img src="https://github.com/pronapro/pronapro/blob/main/deadline.gif" alt="Alter deadline" width="500" height="400" align ="center">
+<img align ="center" src="https://github.com/pronapro/pronapro/blob/main/deadline.gif" alt="Alter deadline" width="500" height="400" >
 
