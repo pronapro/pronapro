@@ -5,6 +5,7 @@
 Hello 😁 I am Proscovia. My friends call me Napro. I write about data science, AI and tech at [napro.dev](https://napro.dev/) connect with me to learn more and also get explanations for some of the code. I create summaries on my socials be sure to follow me to know when there is a new post.
 
 <hr />
+
 ## Blog Posts and articles
 
 ### What is new
@@ -17,9 +18,10 @@ Hello 😁 I am Proscovia. My friends call me Napro. I write about data science,
 <hr />
 
 ### [Blog Articles](https://napro.dev/blog/)
+dtfbhi. ubnu n n
     <details>
       <summary>Preview Previous posts</summary>
-      1.  [Tonal languages](https://napro.dev/what-are-tonal-languages-and-can-computers-understand-them-well/)
+      * [Tonal languages](https://napro.dev/what-are-tonal-languages-and-can-computers-understand-them-well/)
       * [Data Analysis and Exploration](https://napro.dev/data-analysis-and-exploration-in-python-with-matplotlib-numpy-and-pandas/)
       * [introduction to python](https://napro.dev/beginners-guide-to-python-programming/)
       * [introduction to Machine Learning](https://napro.dev/introduction-to-machine-learning/)
