@@ -21,10 +21,12 @@ Hello 😁 I am Proscovia. My friends call me Napro. I write about data science,
 dtfbhi. ubnu n n
     <details>
       <summary>Preview Previous posts</summary>
-      * [Tonal languages](https://napro.dev/what-are-tonal-languages-and-can-computers-understand-them-well/)
-      * [Data Analysis and Exploration](https://napro.dev/data-analysis-and-exploration-in-python-with-matplotlib-numpy-and-pandas/)
-      * [introduction to python](https://napro.dev/beginners-guide-to-python-programming/)
-      * [introduction to Machine Learning](https://napro.dev/introduction-to-machine-learning/)
+    <ul>
+      <li> [Tonal languages](https://napro.dev/what-are-tonal-languages-and-can-computers-understand-them-well/)</li>
+      <li> [Data Analysis and Exploration](https://napro.dev/data-analysis-and-exploration-in-python-with-matplotlib-numpy-and-pandas/)</li>
+      <li>[introduction to python](https://napro.dev/beginners-guide-to-python-programming/)</li>
+      <li>[introduction to Machine Learning](https://napro.dev/introduction-to-machine-learning/)</li>
+    </ul>
     </details>
 
 ## Language and skills
