@@ -7,18 +7,19 @@ Hello 😁 I am Proscovia. My friends call me Napro. I write about data science,
 <hr />
 
 ## What is new
-* whatsapp analysis
-* Geophagy
-* linear regression
-* Tonal Languages
+* [WhatsApp chat analysis](https://napro.dev/whatsapp-chat-analysis-and-exploration-using-python/)
+* [Geophagy](https://napro.dev/geophagy-why-do-people-eat-soil/)
+* [linear regression](https://napro.dev/linear-regression-in-python-with-a-real-world-example/)
+* [K-Means clustering in python](https://napro.dev/k-means-clustering-in-python-with-examples/)
 
 <hr />
 
 ## Language and skills
-* python
-* machine learnind
-* artificial intelligence
-* web development
+* Python
+* Machine learning
+* Artificial Intelligence
+* Web Development
+* Rest API
 
 
 <hr />
@@ -26,10 +27,13 @@ Hello 😁 I am Proscovia. My friends call me Napro. I write about data science,
 ![Napro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronapro&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronapro )](https://github.com/pronapro/github-readme-stats)
 
-- [Images](https://github.com/)
+[Blog Articles](https://napro.dev/blog/)
     <details>
-      <summary>Preview</summary>
-      <img src="orangeblue.png">
+      <summary>Preview Previous posts</summary>
+      * [Tonal languages](https://napro.dev/what-are-tonal-languages-and-can-computers-understand-them-well/)
+      * [Data Analysis and Exploration](https://napro.dev/data-analysis-and-exploration-in-python-with-matplotlib-numpy-and-pandas/)
+      * [introduction to python](https://napro.dev/beginners-guide-to-python-programming/)
+      * [introduction to Machine Learning](https://napro.dev/introduction-to-machine-learning/)
     </details>
 
 <hr />
