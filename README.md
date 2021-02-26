@@ -38,9 +38,5 @@
  <hr />
 </div>
 
-
-
-####  STACK
-
- JS / NODE JS  / HTML / CSS / REST API / PYTHON
+<img src="https://gifer.com/en/39Cg" width="25px">
 
