@@ -38,5 +38,5 @@
  <hr />
 </div>
 
-<img src="https://i.gifer.com/39Cg.gif">
+<img src="https://github.com/pronapro/pronapro/blob/main/deadline.gif">
 
