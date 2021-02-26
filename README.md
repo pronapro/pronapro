@@ -34,7 +34,7 @@ Hello 😁 I am Proscovia. My friends call me Napro. I write about data science,
 
 <hr />
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=pronapro&theme=onedark&no-frame=true&margin-w=30" />
+   <img src="https://github-profile-trophy.vercel.app/?username=pronapro&theme=darkhub&no-frame=true&margin-w=30" />
  <hr />
 </div>
 
