@@ -6,13 +6,16 @@ Hello 😁 I am Proscovia. My friends call me Napro. I write about data science,
 
 <hr />
 ## Blog Posts and articles
+
 ### What is new
+
 * [WhatsApp chat analysis](https://napro.dev/whatsapp-chat-analysis-and-exploration-using-python/)
 * [Geophagy](https://napro.dev/geophagy-why-do-people-eat-soil/)
 * [linear regression](https://napro.dev/linear-regression-in-python-with-a-real-world-example/)
 * [K-Means clustering in python](https://napro.dev/k-means-clustering-in-python-with-examples/)
 
 <hr />
+
 ### [Blog Articles](https://napro.dev/blog/)
     <details>
       <summary>Preview Previous posts</summary>
