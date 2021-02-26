@@ -38,5 +38,5 @@
  <hr />
 </div>
 
-<img src="https://gifer.com/en/39Cg" width="25px">
+<img src="https://i.gifer.com/39Cg.gif" width="25px">
 
