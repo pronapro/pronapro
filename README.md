@@ -24,7 +24,7 @@ Hello 😁 I am Proscovia. My friends call me Napro. I write about data science,
 <hr />
 
 ![Napro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pronapro&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronapro)](https://github.com/pronapro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pronapro &theme=radical)](https://github.com/pronapro/github-readme-stats)
 
 - [Images](https://github.com/)
     <details>
