@@ -51,6 +51,6 @@ Preview
    <img src="https://github-profile-trophy.vercel.app/?username=pronapro&theme=darkhub&no-frame=true&margin-w=30" />
  <hr />
 </div>
-
-<img align ="center" src="https://github.com/pronapro/pronapro/blob/main/deadline.gif" alt="Alter deadline" width="500" height="400" >
-
+<div align="center">
+    <img align ="center" src="https://github.com/pronapro/pronapro/blob/main/deadline.gif" alt="Alter deadline" width="500" height="400" >
+</div>
